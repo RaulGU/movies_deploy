@@ -1,0 +1,7 @@
+firebase-admin
+streamlit
+altair
+pandas
+numpy
+google-cloud-firestore
+google-auth
